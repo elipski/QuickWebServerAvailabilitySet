@@ -1,6 +1,9 @@
 # QuickWebServerAvailabilitySet
 When you need a bunch of scalable NginX servers in a hurry, but the ice cream truck is about to leave.
 
+Assumptions:
+Scripts run in the Azure cli bash shell.
+
 Order of scripts:
 
 1. Edit yaml
